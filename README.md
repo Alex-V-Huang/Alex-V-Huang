@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-V-Huang)](https://github.com/Alex-V-Huang/github-readme-stats)
+
 [![binarysearch](https://binarysearch.com/api/shields/AlexHuang17)](https://binarysearch.com/@/AlexHuang17)
 
 <!--
