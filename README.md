@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![binarysearch](https://binarysearch.com/api/shields/AlexHuang17)](https://binarysearch.com/@/AlexHuang17)
+
 <!--
 **Alex-V-Huang/Alex-V-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
